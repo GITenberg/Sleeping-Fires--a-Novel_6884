@@ -1,0 +1,36 @@
+_repo: Sleeping-Fires--a-Novel_6884
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Lin, Frank
+    - Horn, Gertrude Franklin
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcsh 'Books and reading -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Depression, Mental -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Sleeping Fires: a Novel'
+url: http://www.gutenberg.org/ebooks/6884
